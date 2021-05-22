@@ -12,4 +12,8 @@ class SomeJavaCode
 		//.......
 	}
 
+	public int newYearDiscount()
+	{
+		// ....
+	}
 }
